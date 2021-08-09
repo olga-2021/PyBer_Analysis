@@ -7,8 +7,8 @@ The purpose of this project is to perform an analysis of Pyber ride sharing data
 ## Results
 <img src="https://i.ibb.co/cb0CGdK/Py-Ber-summary-Data-Frame.png" alt="Py-Ber-summary-Data-Frame" border="0"> 
 
-•	Urban cities have the highest ridership demand with a total fare of $39,854.38, a total number of drivers of 2405, and total rides of 1625. Therefore, in the Urban area is the minimum average fare per ride which is $24.53 and minimum average fare per drivee which is $16.57. 
-•	As a comparison, rural cities have the lowest ridership demand with a number of total fares of $4,327.93, the number of drivers is only 78 people, and the total rides are 125. Thus, the rural cities have the highest average fare per ride which is $34.62 and highest average per driver that is $55.49.
+- Urban cities have the highest ridership demand with a total fare of $39,854.38, a total number of drivers of 2405, and total rides of 1625. Therefore, in the Urban area is the minimum average fare per ride which is $24.53 and minimum average fare per drivee which is $16.57. 
+- As a comparison, rural cities have the lowest ridership demand with a number of total fares of $4,327.93, the number of drivers is only 78 people, and the total rides are 125. Thus, the rural cities have the highest average fare per ride which is $34.62 and highest average per driver that is $55.49.
 
 <img src="https://i.ibb.co/9srk7dD/Pyber-fare-summary.png" alt="Pyber-fare-summary" border="0"> 
 
